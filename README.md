@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Name: Manish Yadav<br>🎓 Education: B.Tech in AI & Data Science<br>📊 Career Goal: Aspiring Software Engineer<br>💡 Interests: Building real projects and Learning new technologies<br>🌱 Currently: Learning, building data-driven projects, and improving skills<br>🚀 Mindset: Curious, consistent, and growth-oriented
+👋 Name: Manish Yadav<br>🎓 Education: B.Tech in AI & Data Science<br>📊 Career Goal: Aspiring Software Engineer<br>💡 Interests: Building real projects and Learning new technologies<br>🌱 Currently: Learning new skills, building scalable applications, and improving skills<br>🚀 Mindset: Curious, consistent, and growth-oriented
 
 
 ## 🌐 Socials:
